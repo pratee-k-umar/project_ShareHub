@@ -3,7 +3,7 @@ import Nav from "@/components/Nav"
 import Provider from "@/components/Provider"
 
 export const metadata = {
-  title: "FAQ",
+  title: "ShareHub",
   description: "Best place to get Answers"
 }
 
