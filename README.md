@@ -1,6 +1,39 @@
+# ShareHub
+
+ShareHub is a Quora-like platform that allows users to share and manage their thoughts seamlessly. Built with Next.js, it provides a user-friendly interface and robust features for content sharing and collaboration.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Screenshots
+
+![Welcome Page](./public/readme/welcome.png)
+*Welcome Page of the application.*
+
+![Home Page](./public/readme/home.png)
+*Home Page of the application.*
+
+![Profile](./public/readme/profile.png)
+*Profile showing various features.*
+
+![User](./public/readme/user.png)
+*Profile of other users.*
+
 ## Getting Started
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pratee-k-umar/PortfolioT.git
+   cd app
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   # or
+   pnpm install
+   ```
 
 First, run the development server:
 

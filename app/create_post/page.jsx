@@ -15,7 +15,7 @@ export default function Prompt() {
   const [submiting, setSubmiting] = useState(false);
   const [imageUrl, setImageUrl] = useState("")
   const [publicId, setPublicId] = useState("")
-  const [post, setPost] = useState({
+  const [post, setPost] = useState({  
     tag: "",
     imageUrl: "",
     publicId: "",
